@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "message": "This is the first test message.",
-        "schedule": "once",
-        "datetime": "2026-02-10T14:25"
+        "message": "Test event",
+        "schedule": "daily",
+        "dailytime": "12:00"
     }
 ]

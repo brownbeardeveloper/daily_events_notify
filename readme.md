@@ -1,4 +1,4 @@
-# Today Notify
+# Daily Events Notify
 
 This program is a simple program that will notify you of events that are happening today. It will use slack webhook to send the notifications. The program is designed to run on a server and be executed periodically using a cron job or systemd timer.
 
